@@ -1,0 +1,1 @@
+watch('./*.java') {|md| system "clear && ./run.sh | head -n 15"}
